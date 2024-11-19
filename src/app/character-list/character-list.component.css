@@ -1,0 +1,10 @@
+.character-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  mat-card {
+    width: 200px;
+    cursor: pointer;
+  }
+  
